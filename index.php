@@ -6,6 +6,7 @@
 <html>
 <head>
 	<title>Princh Payment</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<style>
 		body, iframe {
 			margin: 0!important;
